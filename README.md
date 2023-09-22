@@ -37,7 +37,7 @@ Live server com VScode ou apenas clonar pasta e acessar o index.html
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/i2Et1mcavJARo0GAVdyJRL/Explorer-(Copy)?type=design&mode=design). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/AQrSXRgHyI6KejHltQaFpo/Stage-03---Formul%C3%A1rio-intermedi%C3%A1rio-(Copy)?node-id=0%3A1&mode=dev). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
